@@ -186,7 +186,7 @@
                 </os>
             </activation>
             <properties>
-                <native.target>natives-macos</native.target>
+                <native.target>natives-macos-arm64</native.target>
             </properties>
         </profile>
     </profiles>
